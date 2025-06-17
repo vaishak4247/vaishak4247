@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vaishak a
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me vaishak4247@gmail.com
 
 <!---
